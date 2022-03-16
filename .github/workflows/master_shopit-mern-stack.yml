@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ShopIT-MERN-Stack'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C3D7D37F4A0C47B5B8AE54DDD4DE9020 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B364D97BFE774FA0A8544A0D73F01384 }}
           package: .
